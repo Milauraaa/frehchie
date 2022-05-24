@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(212, 152, 221);
+  text-align: center;
+  color: rgb(26, 10, 179);
+}
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+.link {
+  color: black;
+  text-decoration: none;
+}
+.link:hover {
+  text-decoration: underline;
+}
+h4 {
+  max-width: 900px;
+  display: block;
+  margin: 0 auto;
+}
